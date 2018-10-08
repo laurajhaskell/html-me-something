@@ -1,8 +1,8 @@
 body {
     width: 100%
-    max-content 1024px;
+    max-content: 1000px;
     margin: 0 auto;
-    background-color #999;
+    background-color: #ffffff;
     font-size: 62.5%;
     
 }
@@ -19,7 +19,7 @@ header {
 }
 
 header h1 {
-    text-align: center;
+    text-align: right;
 }
 
 h1, h2, h3 {
