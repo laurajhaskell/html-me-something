@@ -104,12 +104,18 @@ img {
 	}
 }
 
-@font-face{
+@font-face {
     font-family: Gotham-Light;
     src: url('fonts/Gotham-Light.otf');
+}
+
+@font-face {
     font-family: GothamBold;
     src: url('fonts/GothamBold.ttf');
+}
+
+@font-face {
     font-family: GothanBookItalic;
-    src: url('fonts/GothamBookItalic.ttf')''
+    src: url('fonts/GothamBookItalic.ttf');
 
  }
