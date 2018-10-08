@@ -4,7 +4,7 @@ body {
     margin: 0 auto;
     background-color: #ffffff;
     font-size: 62.5%;
-    font-family: 'Century Gothic';
+    font-family: 'Century Gothic', sans-serif;
     
 }
 
@@ -13,11 +13,11 @@ main,
 footer {
     background-color: rgb(255, 255, 255);
     font-size: 1.6em;
-    text-transform: uppercase;
 }
 
 header {
     padding .875em 0;
+    text-transform: uppercase;
 }
 
 header h1 {
@@ -32,6 +32,9 @@ h1 {
     font-size: 2.5em;
 }
 
+h2 {
+    text-transform: uppercase;
+}
 main h2 {
     padding 0.625em 0 0.625em 0.625em;
 }
@@ -75,7 +78,8 @@ figcaption {
 
 footer {
 	text-align: center;
-	padding: 3em;
+    padding: 3em;
+    text-transform: uppercase;
 }
 
 footer p {
