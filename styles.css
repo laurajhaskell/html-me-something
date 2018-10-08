@@ -102,3 +102,9 @@ img {
 		font-size: 50%;
 	}
 }
+
+@font-face{
+    font-family: gotham-light;
+    src: url('gotham-light.ttf');
+    
+ }
