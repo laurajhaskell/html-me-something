@@ -4,7 +4,7 @@ body {
     margin: 0 auto;
     background-color: #ffffff;
     font-size: 62.5%;
-    font-family: 'Gotham';
+    font-family: 'Century Gothic';
     
 }
 
@@ -13,6 +13,7 @@ main,
 footer {
     background-color: rgb(255, 255, 255);
     font-size: 1.6em;
+    text-transform: uppercase;
 }
 
 header {
