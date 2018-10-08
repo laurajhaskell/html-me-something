@@ -26,7 +26,7 @@ header h1 {
 }
 
 h1, h2, h3 {
-    margin: 0;
+    margin: 30px;
 }
 
 h1 {
@@ -105,6 +105,6 @@ img {
 
 @font-face{
     font-family: gotham-light;
-    src: url('gotham-light.ttf');
+    src: url('fonts/gotham-light.ttf');
 
  }
