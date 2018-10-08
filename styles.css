@@ -4,7 +4,7 @@ body {
     margin: 0 auto;
     background-color: #ffffff;
     font-size: 62.5%;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: "gotham-light";
     font-weight: 300px;
     
 }
@@ -106,5 +106,5 @@ img {
 @font-face{
     font-family: gotham-light;
     src: url('gotham-light.ttf');
-    
+
  }
