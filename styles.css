@@ -104,7 +104,7 @@ img {
 }
 
 @font-face{
-    font-family: gotham-light;
+    font-family: "gotham-light";
     src: url('fonts/gotham-light.ttf');
 
  }
