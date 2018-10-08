@@ -26,7 +26,7 @@ header h1 {
 }
 
 h1, h2, h3 {
-    margin: 1em;
+    margin: 2em;
 }
 
 h1 {
@@ -54,18 +54,33 @@ section:last-child {
 }
 
 nav ul {
-	text-align: center;
-	padding: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(136, 184, 165);
 }
 
 nav ul li {
-	display: inline-block;
-	margin-right: 1em;
-	font-size: 0.75em;
+	float: left;
+	font-size: 2em;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(60, 211, 166);
 }
 
 p {
-	padding: 1.25em;
+    padding: 2em;
+    text-align: center;
 }
 
 figure {
