@@ -26,7 +26,7 @@ header h1 {
 }
 
 h1, h2, h3 {
-    margin: 30px;
+    margin: 10em;
 }
 
 h1 {
@@ -35,6 +35,7 @@ h1 {
 
 h2 {
     text-transform: uppercase;
+    font-family: GothamBold;
 }
 main h2 {
     padding 0.625em 0 0.625em 0.625em;
@@ -68,13 +69,13 @@ p {
 }
 
 figure {
-	margin: 30px;
-	padding: 30px;
+	margin: 15em;
+	padding: 15em;
 	text-align: center;
 }
 
 figcaption {
-	font-style: italic;
+	font-family: GothamBookItalic;
 }
 
 footer {
@@ -89,7 +90,7 @@ footer p {
 
 img {
 	width: 100%;
-	max-width: 70%;
+	max-width: 80%;
 }
 
 @media screen and (max-width: 680px) {
@@ -106,5 +107,9 @@ img {
 @font-face{
     font-family: Gotham-Light;
     src: url('fonts/Gotham-Light.otf');
+    font-family: GothamBold;
+    src: url('fonts/GothamBold.ttf');
+    font-family: GothanBookItalic;
+    src: url('fonts/GothamBookItalic.ttf')''
 
  }
