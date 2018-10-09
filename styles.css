@@ -25,6 +25,10 @@ header h1 {
     text-align: center;
 }
 
+h1 {
+    color: #24796c;
+}
+
 h1, h2, h3 {
     margin: 2em;
 }
@@ -60,13 +64,13 @@ nav ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(136, 184, 165);
-    border: 1px solid #ffffff;
 }
 
 nav ul li {
 	float: left;
     font-size: 1.2em;
     text-align: center;
+    border: 1px solid #ffffff;
 }
 
 nav li a {
