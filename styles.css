@@ -60,11 +60,14 @@ nav ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(136, 184, 165);
+    border: 1px solid #ffffff;
 }
 
 nav ul li {
 	float: left;
-	font-size: 1.2em;
+    font-size: 1.2em;
+    text-align: center;
+    border-bottom: 1px solid #ffffff;
 }
 
 nav li a {
@@ -79,10 +82,15 @@ li a:hover {
     background-color: rgb(60, 211, 166);
 }
 
+.active {
+    background-color:rgb(60, 211, 166);
+}
+
 p {
     padding: 2em;
     text-align: center;
 }
+
 
 figure {
 	margin: 2em;
