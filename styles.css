@@ -36,7 +36,7 @@ h1 {
 h2 {
     text-transform: uppercase;
     font-family: GothamBold;
-    text-color: #154e45;
+    color: #154e45;
 }
 main h2 {
     padding 0.625em 0 0.625em 0.625em;
@@ -64,7 +64,7 @@ nav ul {
 
 nav ul li {
 	float: left;
-	font-size: 0.5em;
+	font-size: 1.2em;
 }
 
 nav li a {
@@ -91,8 +91,8 @@ figure {
 }
 
 figcaption {
-    font-family: GothamBookItalic;
-    text-color: #949494;
+    font-style: italic;
+    color: #949494;
 }
 
 footer {
@@ -130,9 +130,3 @@ img {
     font-family: GothamBold;
     src: url('fonts/GothamBold.ttf');
 }
-
-@font-face {
-    font-family: GothanBookItalic;
-    src: url('fonts/GothamBookItalic.ttf');
-
- }
