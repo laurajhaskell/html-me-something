@@ -90,14 +90,14 @@ li a:hover {
 }
 
 p {
-    padding: 3em;
+    padding: 0.1em;
     text-align: center;
 }
 
 
 figure {
 	margin: 2em;
-	padding: 2em;
+	padding: 0.2em;
 	text-align: center;
 }
 
