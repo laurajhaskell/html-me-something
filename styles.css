@@ -1,9 +1,9 @@
 body {
     width: 100%;
     max-content: 1000px;
-    margin: 1em;
+    margin: 0;
     background-color: #ffffff;
-    font-size: 90%;
+    font-size: 95%;
     font-family: Gotham-Light;
     font-weight: 300px;
     
@@ -18,7 +18,7 @@ footer {
 }
 
 header h1 {
-    padding .875em 0;
+    padding .4em 0;
     text-transform: uppercase;
     text-align: center;
 }
