@@ -92,6 +92,10 @@ li.sub-menu {
     color:rgb(25, 83, 66);
 }
 
+li.main-menu {
+    font-family: GothamBold;
+}
+
 p {
     margin: 4em;
     margin-top: -0.1em;
