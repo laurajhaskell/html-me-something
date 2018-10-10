@@ -18,7 +18,7 @@ footer {
 }
 
 header h1 {
-    padding .4em 0;
+    padding .4em 0em .4em;
     text-transform: uppercase;
     text-align: center;
 }
@@ -36,6 +36,10 @@ h2 {
     text-transform: uppercase;
     font-family: GothamBold;
     color: #154e45;
+}
+
+hr {
+    width: 80%;
 }
 
 section {
