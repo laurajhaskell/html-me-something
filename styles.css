@@ -28,8 +28,8 @@ header h1 {
 h1 {
     color: #24796c;
     font-size: 2.5em;
-    margin-top: -0.15em;
-    margin-bottom: -0.15em;
+    margin-top: -0.1em;
+    margin-bottom: -0.1em;
 }
 
 h1, h2, h3 {
@@ -37,7 +37,7 @@ h1, h2, h3 {
 }
 
 h2 {
-    margin-top: -0.02em;
+    margin-top: 0.5em;
     margin-bottom: -0.02em;
     text-transform: uppercase;
     font-family: GothamBold;
