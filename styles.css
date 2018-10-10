@@ -33,15 +33,13 @@ h1, h2, h3 {
 }
 
 h2 {
+    margin-top: -0.05em;
+    margin-bottom: -0.02em;
     text-transform: uppercase;
     font-family: GothamBold;
     color: #154e45;
 }
 
-h2 {
-    margin-top: -0.05em;
-    margin-bottom: -0.05em;
-}
 
 hr {
     width: 95%;
@@ -109,11 +107,6 @@ figure {
 figcaption {
     font-style: italic;
     color: #949494;
-}
-
-
-footer {
-	display: inline-block;
 }
 
 img {
