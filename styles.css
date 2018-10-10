@@ -47,10 +47,6 @@ hr {
     width: 95%;
 }
 
-section {
-	margin: 1.875em 0;
-}
-
 section:first-child {
 	margin-top: 0;
 }
