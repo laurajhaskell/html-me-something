@@ -92,6 +92,7 @@ li a:hover {
 p {
     margin: 4em;
     margin-top: -0.1em;
+    margin-bottom: -0.03em;
     padding: 0.2em;
     text-align: center;
 }
