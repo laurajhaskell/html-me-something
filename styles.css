@@ -39,11 +39,12 @@ h2 {
 }
 
 h2, h3 {
-    margin-top: -0.1em;
+    margin-top: -0..05em;
 }
 
 hr {
     width: 95%;
+    margin-top: -0.1em;
 }
 
 section {
