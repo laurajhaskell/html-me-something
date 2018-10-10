@@ -40,7 +40,7 @@ h2 {
 
 h2 {
     margin-top: -0.05em;
-    margin-bottom: -0.1em;
+    margin-bottom: -0.05em;
 }
 
 hr {
@@ -112,7 +112,7 @@ figcaption {
 }
 
 
-footer p {
+footer {
 	display: inline-block;
 }
 
