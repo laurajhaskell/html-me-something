@@ -38,8 +38,9 @@ h2 {
     color: #154e45;
 }
 
-h2, h3 {
-    margin-top: -0..05em;
+h2 {
+    margin-top: -0.05em;
+    margin-bottom: -0.1em;
 }
 
 hr {
