@@ -86,7 +86,7 @@ li a:hover {
     background-color:rgb(60, 211, 166);
 }
 
-#sub-menu {
+ul.sub-menu {
     background-color: rgb(136, 184, 165);
     font-size: 0.9em;
     color:rgb(25, 83, 66);
