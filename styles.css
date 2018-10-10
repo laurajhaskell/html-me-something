@@ -37,9 +37,6 @@ h2 {
     font-family: GothamBold;
     color: #154e45;
 }
-main h2 {
-    padding 0.3em 0 0.3em 0.3em;
-}
 
 section {
 	margin: 1.875em 0;
@@ -87,14 +84,14 @@ li a:hover {
 
 p {
     margin: 4em;
-    padding: 0.05em;
+    padding: 0.2em;
     text-align: center;
 }
 
 
 figure {
 	margin: 2em;
-	padding: 0.05em;
+	padding: 0.2em;
 	text-align: center;
 }
 
