@@ -59,7 +59,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(136, 184, 165);
+    background-color: rgb(112, 151, 136);
 }
 
 nav ul li {
@@ -84,6 +84,10 @@ li a:hover {
 
 .active {
     background-color:rgb(60, 211, 166);
+}
+
+.sub-menu {
+    background-color: rgb(136, 184, 165);
 }
 
 p {
