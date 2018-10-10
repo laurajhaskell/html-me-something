@@ -30,7 +30,6 @@ h1 {
 
 h1, h2, h3 {
     margin: 3em;
-    margin-top: -1em;
 }
 
 h2 {
@@ -89,6 +88,7 @@ li a:hover {
 
 p {
     margin: 4em;
+    margin-top: -1em;
     padding: 0.2em;
     text-align: center;
 }
