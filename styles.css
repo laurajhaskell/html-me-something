@@ -17,8 +17,10 @@ footer {
     text-transform: uppercase;
 }
 
-header h1 {
+header {
     padding .4em 0em .4em;
+}
+header h1 {
     text-transform: uppercase;
     text-align: center;
 }
@@ -35,7 +37,7 @@ h1, h2, h3 {
 }
 
 h2 {
-    margin-top: -0.05em;
+    margin-top: -0.02em;
     margin-bottom: -0.02em;
     text-transform: uppercase;
     font-family: GothamBold;
