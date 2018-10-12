@@ -9,7 +9,7 @@ body {
     
 }
 
-footer {
+#myfooter {
     width: 100%;
     background-color: rgba(221, 221, 221, 0.986);
     font-size: 1em;
